@@ -39,7 +39,7 @@ Stack: React, Redux, Styled Components
 ---
 [DWYL - Help Wanted](https://tudo-app.herokuapp.com/)
 
-A dashboard to help keep track of github issues for people helping with [dwyl's](www.dwyl.com)> open source projects
+A dashboard to help keep track of github issues for people helping with [dwyl's](www.dwyl.com) open source projects
 
 Stack: Elixir, Phoenix, Tachyons
 

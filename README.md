@@ -6,8 +6,7 @@ I graduated from the Founders and Coders full stack Javascript bootcamp in Londo
 I'm passionate about user focused design and development, functional
     programming, and accessibility.
 
-[GitHub](https://github.com/ZooeyMiller)
-[linkedIn](https://www.linkedin.com/in/zooeymiller)
+You can find me on [GitHub](https://github.com/ZooeyMiller) and [linkedIn](https://www.linkedin.com/in/zooeymiller), and on zooeyxmiller@gmail.com if you need to email me. 
 
 
 ## Skills

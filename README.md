@@ -21,6 +21,7 @@ I'm passionate about user focused design and development, functional
 + Mentoring
 + Semantic HTML
 + CSS
++ Git
 
 ## Projects
 [Rounded](https://rounded-app.surge.sh/)
